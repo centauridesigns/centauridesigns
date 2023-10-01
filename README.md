@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 You can call me Souhail or Centauri.  I'm a graphic designer, student, developer, problem-solver and part-time author. I'm Norwegian/Moroccan.
 
-I speak English and Norwegian with native proficiency. I also speak Arabic and Berber with fluency.
+I speak English and Norwegian with native proficiency (bilingual). I'm also fluent in Arabic, with advanced listening comprehension/limited working proficiency in Berber.
 
 <a href= https://www.linkedin.com/in/souhail-ziani-ba885a1b5/>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href= https://www.behance.net/farquhauri>![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)</a>
