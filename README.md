@@ -45,3 +45,15 @@ I speak English, Norwegian, Arabic, and Berber.
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## Subjects at UiO
+This is a list of a few of the classes I've attended at the University of Oslo.
+- IN2120: Information security
+- IN2010: Algorithms and data structures
+- IN2140: Introduction to OS and data communication
+- IN2000: Software engineering
+- IN3110: High-level programming
+- IN2040: Functional programming
+- IN3240: Testing of software
+- IN3020: Database systems
+- IN520: Ethical hacking
