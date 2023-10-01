@@ -38,6 +38,7 @@ I speak English and Norwegian with native proficiency. I also speak Arabic and B
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<img alt="Scheme" src="https://img.shields.io/badge/Scheme-23323C.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAulBMVEUAAACfHSA+W6k+W6mfHSA+W6k+W6n///8+W6mfHSCfHSCfHSCfHSD///////+fHSA+W6k+W6mfHSA+W6mfHSD///+fHSA+W6k+W6n////////Y3u7s0tJrgb3///////+fHSCfHSCfHSD///8+W6mlKy758fHz4+Pb4O/t1dXhuLnDcnS3VljP1uplfbtKZa7VnJ2rOTzn6/SGmcnnx8fPjpC9ZGbz9fqrt9mfrdRWcLTbqqvJgIKxR0oN2CEMAAAAInRSTlMA7+0QIJ+PML+/n48Q789QMCDfz8+AgGBQIBDv78+fj2AwBjjH6wAAAVFJREFUOMttkuligjAQhJdDREStVau190KkgLVild7v/1qFzbEg/X5BZpLZ3QQYZ+X5dhzbvrdyoMv1/c0u1ti96bm+iCo+Y8ZzWtvHEfHyyo7ZBetPVp5Ix3PDYRuHayGKvXLs/nHMsWa76Zwxk3VcoUSkHYdHAagRR1lpzNTdBshk5PhgQ68yWMhsI+KNHQ5MkPndSMP7lzEsYci6IJ0KbWQM2EBdJFFr6D5cGp1GlYqsFWJDu8BNIYO4V2MQdHZZff1QiB65iTjVqxl9kvWgInSRBQUIFcbD8HWb3/XaCSVHPqIHE96UoKLkI5YQWmZPjprENOIABKYCLXMjdFkuV2AQ+lan9GDUbIrzez/IBwPhPFczYGglunOAcG+5xGbGqA+K/qj6FdgkZZ0c4yiVAl/tmHTNerFvG8qHNbRxAwuZwIUu4WQ4qEzWYPgY8uofYI5u9+H+Q8IAAAAASUVORK5CYII=">
 
 ## Tools
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -67,7 +68,3 @@ This is a list of a few of the classes I've attended at the University of Oslo t
 - IN3240: Testing of software
 - IN3020: Database systems
 - IN520: Ethical hacking
-
-
-
-
