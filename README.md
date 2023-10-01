@@ -23,6 +23,7 @@ I speak English, Norwegian, Arabic, and Berber.
 <a href= https://www.behance.net/farquhauri>![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)</a>
 <a href= https://www.steamcommunity.com/id/centaurione>![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</a>
 
+
 ## Languages and Technologies
 ### Primary
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -46,17 +47,6 @@ I speak English, Norwegian, Arabic, and Berber.
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## Subjects at UiO
-This is a list of a few of the classes I've attended at the University of Oslo.
-- IN2120: Information security
-- IN2010: Algorithms and data structures
-- IN2140: Introduction to OS and data communication
-- IN2000: Software engineering
-- IN3110: High-level programming
-- IN2040: Functional programming
-- IN3240: Testing of software
-- IN3020: Database systems
-- IN520: Ethical hacking
 
 ## Major Projects
 ### Programming
@@ -65,6 +55,17 @@ This is a list of a few of the classes I've attended at the University of Oslo.
 ### Graphical
 <a href=https://overpay.guide><img alt="OVERPAY" src="https://img.shields.io/badge/OVERPAY-212229.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAe1BMVEUAAADsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhnsZhmsh8zAAAAAKHRSTlMAzGYiEVUKBfPujj785tWt+bqmloNpNCvh0MFgOh0Y3rR8enJtWFZQgEdGYgAAANhJREFUOMvV0VtygkAQheEeIQw3AUXBe+7Jv/8VJlSPiK0uwO+pq+cUM9SRp3IssbK3YhJYcc+XnPk5VO5KCpQHCb4hS+RK0gK1BDvIxfAVZGHuoYzEyqEJYwuvs6lu2C7BhetSjCJsPzSwxqjCtjlpoAI2n100ioftFpZ6XgB1IkahN50f48VawFanUwOH4b/jia4G1hp4B3e3jlSv9RuYaR1Gqx/4DTXELxd7B9CPj8nFioDdZbytoQd+xkYW5lS3c681ZP+ju5HCSqN7HiiPGnA8UMvz+APPXCqDqurJxAAAAABJRU5ErkJggg=="/></a>
 
+
+## Subjects at UiO
+This is a list of a few of the classes I've attended at the University of Oslo that did not directly involve the learning of a new programming language.
+- IN2120: Information security
+- IN2010: Algorithms and data structures
+- IN2140: Introduction to OS and data communication
+- IN2000: Software engineering
+- IN3110: High-level programming
+- IN3240: Testing of software
+- IN3020: Database systems
+- IN520: Ethical hacking
 
 
 
