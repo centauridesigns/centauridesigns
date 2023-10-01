@@ -74,4 +74,5 @@ This is a list of a few of the classes I've attended at the University of Oslo t
 - IN3110: High-level programming
 - IN3240: Testing of software
 - IN3020: Database systems
+- IN3050: Introduction to AI and ML
 - IN5290: Ethical hacking
