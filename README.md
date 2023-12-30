@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You can call me Souhail or Centauri.  I'm a graphic designer, student, developer, problem-solver and part-time author. I'm Norwegian/Moroccan.
+You can call me Souhail or Centauri.  I'm a developer, graphic designer, student, problem-solver and part-time author. I'm Norwegian/Moroccan.
 
 I speak English and Norwegian with native proficiency (bilingual). I'm also fluent in Arabic, with advanced listening comprehension/limited working proficiency in Berber.
 
