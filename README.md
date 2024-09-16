@@ -30,6 +30,7 @@ Technologies I've had the opportunity to work with for an extended time.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -41,7 +42,6 @@ Technologies I've dabbled in.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <img alt="Scheme" src="https://img.shields.io/badge/Scheme-23323C.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAulBMVEUAAACfHSA+W6k+W6mfHSA+W6k+W6n///8+W6mfHSCfHSCfHSCfHSD///////+fHSA+W6k+W6mfHSA+W6mfHSD///+fHSA+W6k+W6n////////Y3u7s0tJrgb3///////+fHSCfHSCfHSD///8+W6mlKy758fHz4+Pb4O/t1dXhuLnDcnS3VljP1uplfbtKZa7VnJ2rOTzn6/SGmcnnx8fPjpC9ZGbz9fqrt9mfrdRWcLTbqqvJgIKxR0oN2CEMAAAAInRSTlMA7+0QIJ+PML+/n48Q789QMCDfz8+AgGBQIBDv78+fj2AwBjjH6wAAAVFJREFUOMttkuligjAQhJdDREStVau190KkgLVild7v/1qFzbEg/X5BZpLZ3QQYZ+X5dhzbvrdyoMv1/c0u1ti96bm+iCo+Y8ZzWtvHEfHyyo7ZBetPVp5Ix3PDYRuHayGKvXLs/nHMsWa76Zwxk3VcoUSkHYdHAagRR1lpzNTdBshk5PhgQ68yWMhsI+KNHQ5MkPndSMP7lzEsYci6IJ0KbWQM2EBdJFFr6D5cGp1GlYqsFWJDu8BNIYO4V2MQdHZZff1QiB65iTjVqxl9kvWgInSRBQUIFcbD8HWb3/XaCSVHPqIHE96UoKLkI5YQWmZPjprENOIABKYCLXMjdFkuV2AQ+lan9GDUbIrzez/IBwPhPFczYGglunOAcG+5xGbGqA+K/qj6FdgkZZ0c4yiVAl/tmHTNerFvG8qHNbRxAwuZwIUu4WQ4qEzWYPgY8uofYI5u9+H+Q8IAAAAASUVORK5CYII=">
 
 ## Tools
@@ -50,7 +50,6 @@ Tools I'm highly certified in (external to programming).
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
